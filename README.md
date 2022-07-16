@@ -6,7 +6,7 @@ The first player with no remaining legal moves loses, and the opponent is declar
 
 ![image](https://user-images.githubusercontent.com/34398984/179341225-199410f1-e00e-4e32-819a-240b141c28db.png)
 
-##How-To-Play
-*Install pygame using "pip install pygame" in command line terminal.
-*Open the Isolation_game.py using any python ide (VSCode/Spyder is preferrable).
-*Run the code
+## How-To-Play
+- Install pygame using "pip install pygame" in command line terminal.
+- Open the Isolation_game.py using any python ide (VSCode/Spyder is preferrable).
+- Run the code
